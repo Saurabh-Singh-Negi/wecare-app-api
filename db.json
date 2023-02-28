@@ -1,0 +1,116 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "rahul",
+        "password": "rahul",
+        "gender": "F",
+        "dateOfBirth": "1996-01-01",
+        "email": "sweety@gmail.com",
+        "mobileNumber": 1234567890,
+        "pincode": 123456,
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      {
+        "id": 5,
+        "name": "saurabh",
+        "password": "saurabh",
+        "gender": "male",
+        "dateOfBirth": "1990-06-16",
+        "email": "saurabh@gmail.com",
+        "mobileNumber": "123456",
+        "pincode": "124",
+        "city": "asd",
+        "state": "sadaf",
+        "country": "dsa"
+      }
+    ],
+    "coaches": [
+      {
+        "id": 1,
+        "name": "Rose",
+        "password": "rose",
+        "gender": "F",
+        "dateOfBirth": "1996-01-01",
+        "mobileNumber": 1234567890,
+        "speciality": "Vloggin"
+      },
+      {
+        "id": 2,
+        "name": "sachin",
+        "password": "sachin",
+        "gender": "male",
+        "dateOfBirth": "1998-07-16",
+        "mobileNumber": "1234567891",
+        "speciality": "Singing"
+      },
+      {
+        "id": 3,
+        "name": "saurabh",
+        "password": "saurabh",
+        "gender": "male",
+        "dateOfBirth": "1998-06-16",
+        "mobileNumber": "9876543211",
+        "speciality": "travelling"
+      },
+      {
+        "id": 4,
+        "name": "shivam",
+        "password": "shivam",
+        "gender": "female",
+        "dateOfBirth": "1986-02-24",
+        "mobileNumber": "12345678",
+        "speciality": "guitar"
+      },
+      {
+        "id": 5,
+        "name": "sweety",
+        "password": "sweety",
+        "gender": "female",
+        "dateOfBirth": "1990-06-16",
+        "mobileNumber": "1234567891",
+        "speciality": "dance"
+      },
+      {
+        "id": 6,
+        "name": "sakshi",
+        "password": "sakshi",
+        "gender": "female",
+        "dateOfBirth": "1990-02-25",
+        "mobileNumber": "1234567890",
+        "speciality": "frontend"
+      }
+    ],
+    "bookings": [
+      {
+        "appointmentDate": "2023-02-16",
+        "slot": "10AM to 11AM",
+        "userId": 5,
+        "coachId": 3,
+        "id": 12
+      },
+      {
+        "appointmentDate": "2023-02-16",
+        "slot": "10AM to 11AM",
+        "userId": 5,
+        "coachId": 3,
+        "id": 12
+      },
+      {
+        "appointmentDate": "2023-02-16",
+        "slot": "10AM to 11AM",
+        "userId": 5,
+        "coachId": 3,
+        "id": 12
+      },
+      {
+        "appointmentDate": "2023-02-16",
+        "slot": "10AM to 11AM",
+        "userId": 5,
+        "coachId": 3,
+        "id": 12
+      }
+    ]
+  }
